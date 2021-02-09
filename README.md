@@ -1,6 +1,6 @@
 # amplify_test
 
-A new Flutter application.
+A new Flutter application with registration/sign in options.
 
 ## Getting Started
 
