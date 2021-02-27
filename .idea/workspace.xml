@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="60c227d3-86cd-4ae7-85a0-59021bbc3169" name="Default Changelist" comment="" />
+    <list default="true" id="5ff652c1-9431-4b90-8c67-fd09dfa370be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1ouQhpSDaclL1s7sNhYDJ3KDTqB" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Sorbari" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ouO96tRsF0QwJ1ZvLeyay0jUXT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,10 +35,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
@@ -32,30 +53,82 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="60c227d3-86cd-4ae7-85a0-59021bbc3169" name="Default Changelist" comment="" />
-      <created>1614134117586</created>
+      <changelist id="5ff652c1-9431-4b90-8c67-fd09dfa370be" name="Default Changelist" comment="" />
+      <created>1614132854557</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614134117586</updated>
+      <updated>1614132854557</updated>
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="1336" height="630" key="AVDManager" timestamp="1614134539555">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="546" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1614382124944">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="100" y="100" width="1336" height="630" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1614134539555" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1614134523470">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="546" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614382124944" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614212901997">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614134523470" />
-    <state x="277" y="60" key="SettingsEditor" timestamp="1614134572301">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614212901997" />
+    <state width="1226" height="170" key="GridCell.Tab.0.bottom" timestamp="1614400777011">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="277" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614134572301" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614134994779">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1226" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614400777011" />
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614134485829" />
+    <state width="1226" height="170" key="GridCell.Tab.0.center" timestamp="1614400777011">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614134994779" />
+    <state width="1226" height="170" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614400777011" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614134485829" />
+    <state width="1226" height="170" key="GridCell.Tab.0.left" timestamp="1614400777011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1226" height="170" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614400777011" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614134485829" />
+    <state width="1226" height="170" key="GridCell.Tab.0.right" timestamp="1614400777011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1226" height="170" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614400777011" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614134485829" />
+    <state x="21" y="93" key="MergeDialog" timestamp="1614468480916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="21" y="93" key="MergeDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614468480916" />
+    <state x="174" y="18" key="SettingsEditor" timestamp="1614304562116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="174" y="18" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614304562116" />
+    <state x="345" y="115" key="git4idea.branch.GitSmartOperationDialog" timestamp="1614468333552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="345" y="115" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614468333552" />
+    <state x="532" y="290" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614468041662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="532" y="290" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614468041662" />
+    <state x="389" y="162" key="run.anything.popup" timestamp="1614330608634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614330608634" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1614468379311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614468379311" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1614134522147" />
   </component>
 </project>
