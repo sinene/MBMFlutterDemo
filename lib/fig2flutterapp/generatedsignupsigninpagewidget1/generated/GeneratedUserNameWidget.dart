@@ -6,6 +6,30 @@ import 'package:flutter/material.dart';
 class GeneratedUserNameWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+        return TextFormField(
+        decoration: new InputDecoration(
+          labelText: "Enter Username",
+          fillColor: Colors.white,
+          border: new OutlineInputBorder(
+            borderRadius: new BorderRadius.circular(25.0),
+            borderSide: new BorderSide(
+            ),
+          ),
+          //fillColor: Colors.green
+        ),
+        validator: (val) {
+          if(val.length==0) {
+            return "Username cannot be empty";
+          }else{
+            return null;
+          }
+        },
+        keyboardType: TextInputType.emailAddress,
+        style: new TextStyle(
+          fontFamily: "Poppins",
+        ),
+      );
+    /*
     return Text(
       '''User Name''',
       overflow: TextOverflow.visible,
@@ -19,6 +43,6 @@ class GeneratedUserNameWidget extends StatelessWidget {
 
         /* letterSpacing: -0.40799999237060547, */
       ),
-    );
+    ); */
   }
 }

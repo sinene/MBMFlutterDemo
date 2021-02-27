@@ -6,6 +6,31 @@ import 'package:flutter/material.dart';
 class GeneratedConfirmPasswordWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    return TextFormField(
+        obscureText: true,
+        decoration: new InputDecoration(
+          hintText: "Confirm Password",
+          fillColor: Colors.white,
+          border: new OutlineInputBorder(
+            borderRadius: new BorderRadius.circular(25.0),
+            borderSide: new BorderSide(
+            ),
+          ),
+          //fillColor: Colors.green
+        ),
+        validator: (val) {
+          if(val.length==0) {
+            return "Password cannot be empty";
+          }else{
+            return null;
+          }
+        },
+        keyboardType: TextInputType.visiblePassword,
+        style: new TextStyle(
+          fontFamily: "Poppins",
+        ),
+      );
+    /*
     return Text(
       'Confirm Password',
       overflow: TextOverflow.visible,
@@ -19,6 +44,6 @@ class GeneratedConfirmPasswordWidget extends StatelessWidget {
 
         /* letterSpacing: -0.40799999237060547, */
       ),
-    );
+    ); */
   }
 }

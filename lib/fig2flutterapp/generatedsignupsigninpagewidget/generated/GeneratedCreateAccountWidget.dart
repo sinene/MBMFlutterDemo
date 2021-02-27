@@ -12,8 +12,8 @@ class GeneratedCreateAccountWidget extends StatelessWidget {
       textAlign: TextAlign.center,
       style: TextStyle(
         height: 0.9166666666666666,
-        fontSize: 24.0,
-        fontFamily: 'Roboto',
+        fontSize: 20.0,
+        fontFamily: 'Poppins',
         fontWeight: FontWeight.w400,
 
          letterSpacing: -0.40799999237060547, 
